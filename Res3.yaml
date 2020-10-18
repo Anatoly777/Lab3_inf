@@ -1,0 +1,19 @@
+schedule:
+  day:
+    wednesday:
+      class1:
+        classformat: Очно-дистанционный
+        lesson: 'ДИСКРЕТНАЯ МАТЕМАТИКА(ЛЕК): АУД. 2202 C 30.09.'
+        location: ул.Ломоносова, д.9, лит. А
+        room: 2202 АУД.
+        teacher: Поляков Владимир Иванович
+        time: 10:00-11:30
+        week: нечетная неделя
+      class2:
+        classformat: Очно-дистанционны
+        lesson: ИНОСТРАННЫЙ ЯЗЫК(ПРАК)
+        location: ул.Ломоносова, д.9, лит. Е
+        room: null
+        teacher: null
+        time: 11:40-13:10
+        week: null

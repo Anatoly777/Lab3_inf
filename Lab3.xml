@@ -1,0 +1,24 @@
+<schedule>
+	<day>
+		<wednesday>
+			<class1>
+				<time>10:00-11:30</time>
+				<week>нечетная неделя</week>
+				<room>2202 АУД.</room>
+				<location>ул.Ломоносова, д.9, лит. А</location>
+				<lesson>ДИСКРЕТНАЯ МАТЕМАТИКА(ЛЕК): АУД. 2202 C 30.09.</lesson>
+				<teacher>Поляков Владимир Иванович</teacher>
+				<classformat>Очно-дистанционный</classformat>
+			</class1>
+			<class2>
+				<time>11:40-13:10</time>
+				<week></week>
+				<room></room>
+				<location>ул.Ломоносова, д.9, лит. Е</location>
+				<lesson>ИНОСТРАННЫЙ ЯЗЫК(ПРАК)</lesson>
+				<teacher></teacher>
+				<classformat>Очно-дистанционны</classformat>
+			</class2>
+		</wednesday>
+	</day>
+</schedule>
